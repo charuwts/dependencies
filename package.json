@@ -1,6 +1,6 @@
 {
   "name": "@charuwts/dependencies",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Common Scripts for Charuwts, LLC",
   "main": "index.js",
   "repository": "https://github.com/charuwts/dependencies",
