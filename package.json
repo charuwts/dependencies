@@ -1,6 +1,6 @@
 {
   "name": "@charuwts/dependencies",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Common Scripts for Charuwts, LLC",
   "main": "index.js",
   "repository": "https://github.com/charuwts/dependencies",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "^1.1.0",
+    "@fortawesome/fontawesome-free": "^5.1.0-9",
     "@popperjs/core": "^2.5.4",
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
@@ -20,7 +21,6 @@
     "graphql-request": "^3.1.0",
     "gsap": "^3.5.1",
     "jquery": "^3.5.1",
-    "node-sass": "^5.0.0",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
